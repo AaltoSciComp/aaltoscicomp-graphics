@@ -232,11 +232,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="103.37397"
-     inkscape:cy="104.7674"
+     inkscape:zoom="2.8"
+     inkscape:cx="97.787818"
+     inkscape:cy="126.96634"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer11"
      showgrid="true"
      inkscape:window-width="1766"
      inkscape:window-height="945"
@@ -304,8 +304,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="cuberounded"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 10.103828,19.999933 c 1.15e-4,-0.833448 1.443491,-1.666782 5.051929,-3.750114 3.608438,-2.083333 9.35349,-5.400241 12.979712,-7.4938408 3.626222,-2.0936002 5.062481,-2.9228246 6.505351,-2.9229379 1.44287,-1.133e-4 2.88703,0.833673 6.495472,2.9170078 3.608441,2.0833349 9.381939,5.4166659 12.990379,7.4999989 3.608439,2.083334 5.051815,2.916667 5.052035,3.749825 2.19e-4,0.833158 -1.442584,1.666161 -5.052979,3.750624 -3.610396,2.084463 -9.380526,5.415849 -12.989116,7.499269 -3.60859,2.083421 -5.051908,2.916721 -6.495789,2.916608 C 33.19694,34.16626 31.754558,33.333501 28.145595,31.249866 24.536631,29.16623 18.764035,25.83342 15.155554,23.750062 11.547072,21.666704 10.103713,20.833381 10.103828,19.999933 Z"
@@ -521,7 +520,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-227)"
-     style="display:inline;opacity:0.99599998">
+     style="display:inline;opacity:0.99599998"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.63333321px;line-height:1.25;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
