@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="logo1.svg">
+   sodipodi:docname="logo-dev.svg">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -232,16 +232,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="101.31543"
-     inkscape:cy="62.359734"
+     inkscape:zoom="2.8"
+     inkscape:cx="112.17232"
+     inkscape:cy="126.58529"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer6"
      showgrid="true"
-     inkscape:window-width="1004"
-     inkscape:window-height="685"
-     inkscape:window-x="2525"
-     inkscape:window-y="35"
+     inkscape:window-width="1623"
+     inkscape:window-height="1003"
+     inkscape:window-x="2040"
+     inkscape:window-y="36"
      inkscape:window-maximized="0"
      inkscape:snap-object-midpoints="true"
      showguides="true"
@@ -266,7 +266,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -274,7 +274,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="cuberounded - rear"
-     style="display:inline">
+     style="display:none">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 8.660254,29.999998 c 0,-1.666697 0,-3.333597 0,-5.000132 0,-1.666534 0,-3.333465 0.7217298,-4.583357 0.7217302,-1.249892 2.1653352,-2.083358 3.6085542,-2.9166 1.443218,-0.833243 2.886817,-1.666705 4.32997,-2.49991"
@@ -304,7 +304,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="cuberounded"
-     style="display:inline">
+     style="display:none">
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 10.103828,19.999933 c 1.15e-4,-0.833448 1.443491,-1.666782 5.051929,-3.750114 3.608438,-2.083333 9.35349,-5.400241 12.979712,-7.4938408 3.626222,-2.0936002 5.062481,-2.9228246 6.505351,-2.9229379 1.44287,-1.133e-4 2.88703,0.833673 6.495472,2.9170078 3.608441,2.0833349 9.381939,5.4166659 12.990379,7.4999989 3.608439,2.083334 5.051815,2.916667 5.052035,3.749825 2.19e-4,0.833158 -1.442584,1.666161 -5.052979,3.750624 -3.610396,2.084463 -9.380526,5.415849 -12.989116,7.499269 -3.60859,2.083421 -5.051908,2.916721 -6.495789,2.916608 C 33.19694,34.16626 31.754558,33.333501 28.145595,31.249866 24.536631,29.16623 18.764035,25.83342 15.155554,23.750062 11.547072,21.666704 10.103713,20.833381 10.103828,19.999933 Z"
@@ -354,7 +354,7 @@
      id="layer2"
      inkscape:label="cube"
      transform="translate(0,-4)"
-     style="display:none">
+     style="display:inline">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="M 34.64102,8.9999952 8.6602596,23.999995"
@@ -465,7 +465,7 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="shading - rounded"
-     style="display:inline">
+     style="display:none">
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.88976395;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 123.61196,239.98378 c -3.1078,-1.16657 -6.8833,-3.29623 -50.889042,-28.70505 -11.392857,-6.57821 -22.5625,-13.07672 -24.821428,-14.44113 -10.19607,-6.15851 -12.773274,-9.18451 -13.951755,-16.38133 -0.588668,-3.59491 -0.907486,-79.43812 -0.374468,-89.081429 0.421829,-7.63167 0.724588,-9.101743 2.096784,-10.181112 1.316096,-1.035241 2.560188,-0.766322 7.517859,1.625036 5.252206,2.53343 70.32063,40.060115 76.14015,43.912045 6.43292,4.25794 8.57442,6.76415 9.83853,11.51415 1.04792,3.93761 1.29911,16.74246 1.1194,57.06446 -0.17865,40.0832 -0.25778,42.22558 -1.62908,44.10715 -0.77502,1.0634 -3.04534,1.31856 -5.04695,0.56721 z m -14.73131,-29.84642 c 4.57647,-1.97086 6.71591,-6.57124 6.6467,-14.29222 -0.0871,-9.71802 -4.13604,-18.33426 -12.55999,-26.72802 -3.25737,-3.24571 -7.062227,-6.37337 -18.734677,-15.40027 -15.069915,-11.65433 -18.22545,-15.3366 -18.274505,-21.32502 -0.02525,-3.08274 0.683409,-4.30379 2.965569,-5.10978 1.3448,-0.47494 1.732164,-0.46558 3.896218,0.0942 6.0903,1.57549 13.818646,6.78003 18.335657,12.34786 3.092953,3.81249 4.717818,7.34176 5.477911,11.89825 0.214189,1.284 0.392539,1.41301 8.081867,5.84614 4.32457,2.49324 7.90926,4.47383 7.96598,4.40131 0.0567,-0.0725 -0.0236,-1.739 -0.17855,-3.70328 -1.29839,-16.46305 -15.423587,-33.24262 -36.868583,-43.79682 -6.563557,-3.23027 -9.529262,-4.05961 -14.518472,-4.06 -4.779832,-3.8e-4 -6.101468,0.4927 -8.439223,3.14853 -4.321843,4.90987 -4.259873,16.32401 0.136087,25.06543 3.952986,7.86056 8.68509,12.62424 25.445993,25.61576 11.833186,9.172 16.948754,14.00708 18.997322,17.95567 2.675611,5.15722 2.495661,10.27492 -0.414204,11.77967 -4.360375,2.25484 -16.076693,-3.24303 -23.94026,-11.23394 -4.679833,-4.75562 -7.097743,-9.06325 -7.939861,-14.14527 l -0.373931,-2.2566 -8.182297,-4.70298 c -4.500264,-2.58663 -8.243767,-4.6415 -8.318897,-4.56637 -0.07513,0.0751 0.02142,1.41981 0.214549,2.98818 1.355277,11.00589 6.726483,21.19072 16.097057,30.52309 9.151887,9.11456 24.060119,17.9107 34.217665,20.18906 3.280505,0.73583 7.872745,0.49754 10.264875,-0.53262 z"
@@ -545,7 +545,7 @@
            height="75.590553"
            x="81.82917"
            y="156.85039" /></flowRegion><flowPara
-         id="flowPara4572"></flowPara></flowRoot>    <text
+         id="flowPara4572" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.63333321px;line-height:1.25;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="11.797558"
@@ -619,7 +619,7 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:1.25;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="-29.93449"
        y="12.193191"
        id="text7075"
@@ -628,22 +628,22 @@
          id="tspan7073"
          x="-29.93449"
          y="12.193191"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle;stroke-width:0.26458332;">Scientific</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Scientific</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:1.25;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="-0.044723623"
        y="25.075592"
        id="text7090"
        transform="matrix(0.8660254,-0.5,1,0.57735027,0,0)"><tspan
          sodipodi:role="line"
          id="tspan7088"
-         x="-0.044723552"
+         x="-0.044723608"
          y="25.075592"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle;stroke-width:0.26458332;">Aalto</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Aalto</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;line-height:1.25;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="-69.986824"
        y="37.63023"
        id="text7094"
@@ -652,7 +652,7 @@
          id="tspan7092"
          x="-69.986824"
          y="37.63023"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle;stroke-width:0.26458332;">Computing</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Computing</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -686,7 +686,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">aalto.fi</tspan></text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      transform="translate(0,-4)"
      inkscape:label="url - side only"
      id="g8013"
@@ -709,7 +709,7 @@
      id="layer3"
      inkscape:label="descriptions"
      transform="translate(0,-4)"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -721,30 +721,30 @@
          id="tspan4594"
          x="-39.010441"
          y="6.9533939"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">COMPUTING</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">COMPUTE</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="9.5021677"
-       y="23.330008"
+       x="10.34583"
+       y="23.380648"
        id="text4600"
        transform="rotate(-30)"><tspan
          sodipodi:role="line"
          id="tspan4598"
-         x="9.5021677"
-         y="23.330008"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">DATA</tspan></text>
+         x="10.34583"
+         y="23.380648"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">DATA MGMT</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="50.494484"
-       y="-11.308381"
+       x="49.521736"
+       y="-11.292329"
        id="text4604"
        transform="rotate(30)"><tspan
          sodipodi:role="line"
          id="tspan4602"
-         x="50.494484"
-         y="-11.308381"
+         x="49.521736"
+         y="-11.292329"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">SOFTWARE</tspan></text>
     <text
        xml:space="preserve"
@@ -757,6 +757,6 @@
          id="tspan4606"
          x="39.027191"
          y="-62.38084"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">EDUCATION</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">TRAINING</tspan></text>
   </g>
 </svg>
