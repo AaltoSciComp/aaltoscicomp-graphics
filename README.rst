@@ -17,3 +17,9 @@ More files will be added later once we have a decision on what to use.
 * ``-compact`` versions have font outlines instead of fonts.
 
 
+Size notes
+----------
+
+Notes: if hexagon side is a, diameter is 2a, then height of the
+3-hexagon logo is 3.5a, width is 2a*sqrt(3), and radius ofthe circle
+it fits in is 4a.
