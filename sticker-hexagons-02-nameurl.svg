@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="4.3994093cm"
-   height="5.0799999cm"
-   viewBox="0 0 43.994092 50.799999"
+   width="4.4667978cm"
+   height="5.1500001cm"
+   viewBox="0 0 44.667977 51.500001"
    version="1.1"
    id="svg869"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
@@ -37,9 +37,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="62.035585"
-     inkscape:cy="98.088869"
+     inkscape:zoom="2.0100813"
+     inkscape:cx="63.309072"
+     inkscape:cy="99.411709"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -47,8 +47,8 @@
      showguides="true"
      inkscape:window-width="1328"
      inkscape:window-height="817"
-     inkscape:window-x="1642"
-     inkscape:window-y="920"
+     inkscape:window-x="1309"
+     inkscape:window-y="921"
      inkscape:window-maximized="0"
      inkscape:snap-global="true"
      units="cm"
@@ -57,13 +57,17 @@
      inkscape:object-paths="true"
      inkscape:snap-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="false">
+     inkscape:snap-midpoints="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="axonomgrid"
        id="grid1432"
        spacingy="0.49999999"
-       originx="21.997046"
-       originy="25.399999"
+       originx="22.333989"
+       originy="25.750001"
        empspacing="10" />
   </sodipodi:namedview>
   <metadata
@@ -82,7 +86,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="stickermule hexagon template"
-     style="display:none">
+     style="display:none"
+     transform="translate(0.33694334,0.3500015)">
     <g
        id="g2508"
        transform="matrix(0.03527778,0,0,-0.03527778,-85.952961,204.50564)">
@@ -96,7 +101,8 @@
      inkscape:label="sticker"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0.33694334,0.3500015)">
     <g
        id="g1896"
        transform="matrix(0.10658379,0,0,0.10658379,5.9956224,2.4085569)"
@@ -246,7 +252,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="cut line"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0.33694334,0.3500015)">
     <path
        sodipodi:type="star"
        style="fill:none;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.38551;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:11.34;stroke-dasharray:none;paint-order:normal"

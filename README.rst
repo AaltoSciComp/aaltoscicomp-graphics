@@ -23,3 +23,12 @@ Size notes
 Notes: if hexagon side is a, diameter is 2a, then height of the
 3-hexagon logo is 3.5a, width is 2a*sqrt(3), and radius ofthe circle
 it fits in is 4a.
+
+
+Stickers
+--------
+
+Hex sticker spec: https://github.com/terinjokes/StickersStandard
+
+Stickers should be printed 4.399 cm wide.  The height (of full
+hexagon) would be 5.080 cm.
