@@ -13,7 +13,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="tiers-of-hpc.svg">
+   sodipodi:docname="tiers-of-hpc.svg"
+   inkscape:export-filename="/home/rkdarst/git/aalto-scicomp-graphics/tiers-of-hpc.png"
+   inkscape:export-xdpi="173.39999"
+   inkscape:export-ydpi="173.39999">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -198,11 +201,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="1018.9803"
-     inkscape:cy="89.6342"
+     inkscape:cx="584.53894"
+     inkscape:cy="161.11977"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -216,7 +219,8 @@
      units="cm"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true">
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:pagecheckerboard="false">
     <inkscape:grid
        type="xygrid"
        id="grid851"
@@ -652,5 +656,16 @@
          x="369.94815"
          y="71.368073"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Integrated</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="280"
+       y="50"
+       id="text1043"><tspan
+         sodipodi:role="line"
+         id="tspan1041"
+         x="280"
+         y="50"
+         style="stroke-width:0.264583" /></text>
   </g>
 </svg>
