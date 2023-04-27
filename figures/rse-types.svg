@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20cm"
+   height="14.8cm"
+   viewBox="0 0 200 148"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="rse-types.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="369.85654"
+     inkscape:cy="274.51437"
+     inkscape:document-units="cm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:lockguides="false"
+     units="cm"
+     inkscape:window-width="1584"
+     inkscape:window-height="933"
+     inkscape:window-x="1331"
+     inkscape:window-y="939"
+     inkscape:window-maximized="0"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833"
+       units="cm"
+       spacingx="2.5"
+       spacingy="2.5"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ff6600;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       d="M 9.9999917,40.000001 190,40.000003"
+       id="path1668"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ff6600;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       d="M 9.9999917,90.000002 H 190"
+       id="path1670"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ff6600;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       d="M 9.9999917,140 H 190"
+       id="path1672"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ff6600;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       d="M 190,20.000001 V 140"
+       id="path1674" />
+    <path
+       style="fill:#ff6600;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       d="M 109.99999,20.000001 V 140"
+       id="path1676" />
+    <path
+       style="fill:#ff6600;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+       d="M 29.999994,20.000001 V 140"
+       id="path1678" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="69.999992"
+       y="30.000002"
+       id="text1682"><tspan
+         sodipodi:role="line"
+         id="tspan1680"
+         x="69.999992"
+         y="30.000002"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Wide audience</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="149.99998"
+       y="30.000002"
+       id="text1686"><tspan
+         sodipodi:role="line"
+         id="tspan1684"
+         x="149.99998"
+         y="30.000002"
+         style="stroke-width:0.264583">Local audience</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="-65"
+       y="17.499992"
+       id="text1690"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1688"
+         x="-65"
+         y="17.499992"
+         style="stroke-width:0.264583">Generalist</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="-115"
+       y="17.499992"
+       id="text1694"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1692"
+         x="-115"
+         y="17.499992"
+         style="stroke-width:0.264583">Specialist</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="69.999992"
+       y="37.500004"
+       id="text1698"><tspan
+         sodipodi:role="line"
+         id="tspan1696"
+         x="69.999992"
+         y="37.500004"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Central service staff</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="149.99998"
+       y="37.500004"
+       id="text1704"><tspan
+         sodipodi:role="line"
+         id="tspan1702"
+         x="149.99998"
+         y="37.500004"
+         style="stroke-width:0.264583">Working for single group</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="69.999992"
+       y="50.000004"
+       id="text1708"><tspan
+         sodipodi:role="line"
+         id="tspan1706"
+         x="69.999992"
+         y="50.000004"
+         style="stroke-width:0.264583">Team waits for requests</tspan><tspan
+         sodipodi:role="line"
+         x="69.999992"
+         y="57.937504"
+         style="stroke-width:0.264583"
+         id="tspan1710">and handles them,</tspan><tspan
+         sodipodi:role="line"
+         x="69.999992"
+         y="65.875"
+         style="stroke-width:0.264583"
+         id="tspan1712">happy to receive any</tspan><tspan
+         sodipodi:role="line"
+         x="69.999992"
+         y="73.8125"
+         style="stroke-width:0.264583"
+         id="tspan1714">questions.</tspan><tspan
+         sodipodi:role="line"
+         x="69.999992"
+         y="81.75"
+         style="stroke-width:0.264583"
+         id="tspan1754">e.g. Staff RSE</tspan><tspan
+         sodipodi:role="line"
+         x="69.999992"
+         y="89.6875"
+         style="stroke-width:0.264583"
+         id="tspan1752" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="69.999992"
+       y="100"
+       id="text1718"><tspan
+         sodipodi:role="line"
+         id="tspan1716"
+         x="69.999992"
+         y="100"
+         style="stroke-width:0.264583">Does mostly specific work,</tspan><tspan
+         sodipodi:role="line"
+         x="69.999992"
+         y="107.9375"
+         style="stroke-width:0.264583"
+         id="tspan1720">waits for specific </tspan><tspan
+         sodipodi:role="line"
+         x="69.999992"
+         y="115.875"
+         style="stroke-width:0.264583"
+         id="tspan1722">questions to come in </tspan><tspan
+         sodipodi:role="line"
+         x="69.999992"
+         y="123.8125"
+         style="stroke-width:0.264583"
+         id="tspan1724">related to their topic.</tspan><tspan
+         sodipodi:role="line"
+         x="69.999992"
+         y="131.75"
+         style="stroke-width:0.264583"
+         id="tspan1756">e.g. Infra Engineers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="149.99998"
+       y="50.000004"
+       id="text1728"><tspan
+         sodipodi:role="line"
+         id="tspan1726"
+         x="149.99998"
+         y="50.000004"
+         style="stroke-width:0.264583">&quot;Computer guru&quot; in a group,</tspan><tspan
+         sodipodi:role="line"
+         x="149.99998"
+         y="57.937504"
+         style="stroke-width:0.264583"
+         id="tspan1730">helps with anything but</tspan><tspan
+         sodipodi:role="line"
+         x="149.99998"
+         y="65.875"
+         style="stroke-width:0.264583"
+         id="tspan1732">only for people they know.</tspan><tspan
+         sodipodi:role="line"
+         x="149.99998"
+         y="73.8125"
+         style="stroke-width:0.264583"
+         id="tspan1748" /><tspan
+         sodipodi:role="line"
+         x="149.99998"
+         y="81.75"
+         style="stroke-width:0.264583"
+         id="tspan1750">e.g. co-funded App Experts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="150"
+       y="90"
+       id="text1736"><tspan
+         sodipodi:role="line"
+         id="tspan1734"
+         x="150"
+         y="90"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="149.99998"
+       y="100"
+       id="text1740"><tspan
+         sodipodi:role="line"
+         id="tspan1738"
+         x="149.99998"
+         y="100"
+         style="stroke-width:0.264583">Specialist of a certain tool</tspan><tspan
+         sodipodi:role="line"
+         x="149.99998"
+         y="107.9375"
+         style="stroke-width:0.264583"
+         id="tspan1742">within a certain group,</tspan><tspan
+         sodipodi:role="line"
+         x="149.99998"
+         y="115.875"
+         style="stroke-width:0.264583"
+         id="tspan1744">not available for outside</tspan><tspan
+         sodipodi:role="line"
+         x="149.99998"
+         y="123.8125"
+         style="stroke-width:0.264583"
+         id="tspan1746">support requests.</tspan><tspan
+         sodipodi:role="line"
+         x="149.99998"
+         y="131.75"
+         style="stroke-width:0.264583"
+         id="tspan1758">e.g. Lab Managers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="-65"
+       y="27.499992"
+       id="text1762"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1760"
+         x="-65"
+         y="27.499992"
+         style="stroke-width:0.264583">Any questions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="-115"
+       y="27.499992"
+       id="text1766"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1764"
+         x="-115"
+         y="27.499992"
+         style="stroke-width:0.264583">One domain</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="100.00001"
+       y="12.5"
+       id="text1770"><tspan
+         sodipodi:role="line"
+         id="tspan1768"
+         x="100.00001"
+         y="12.5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Types of Research Software Engineer</tspan></text>
+  </g>
+</svg>
