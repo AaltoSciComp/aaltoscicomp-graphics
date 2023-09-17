@@ -28,10 +28,18 @@ Stickers
 --------
 Hex sticker spec: https://github.com/terinjokes/StickersStandard
 
-Stickers should be printed 4.399 cm wide.  The height (of full
-hexagon) would be 5.080 cm.
+Our main stickers are:
+
+* ``stickers/sticker-hexagons-02-plan.svg``
+* ``stickers/sticker-hexagons-02-nameurl.svg``
+
+The hexagonal stickers should be printed 4.399 cm wide.  The height
+(of full hexagon) would be 5.080 cm.
+
 
 
 Patches
 -------
-First order was 6cm tall.
+
+First order was 6cm tall.  Sample filename for reordering:
+``284-38424.jpg``.
