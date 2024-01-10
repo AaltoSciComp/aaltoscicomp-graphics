@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="40cm"
    height="9cm"
    viewBox="0 0 400.00001 90"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
    sodipodi:docname="tiers-of-hpc.svg"
-   inkscape:export-filename="/home/rkdarst/git/aalto-scicomp-graphics/tiers-of-hpc.png"
+   inkscape:export-filename="../../aalto-scicomp-graphics/figures/tiers-of-hpc.png"
    inkscape:export-xdpi="173.39999"
-   inkscape:export-ydpi="173.39999">
+   inkscape:export-ydpi="173.39999"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -204,30 +204,36 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="584.53894"
-     inkscape:cy="161.11977"
+     inkscape:cx="1155"
+     inkscape:cy="161.42857"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
      inkscape:window-width="1711"
      inkscape:window-height="922"
-     inkscape:window-x="3222"
-     inkscape:window-y="856"
+     inkscape:window-x="746"
+     inkscape:window-y="195"
      inkscape:window-maximized="0"
      width="248mm"
      units="cm"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:pagecheckerboard="false">
+     inkscape:pagecheckerboard="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff">
     <inkscape:grid
        type="xygrid"
        id="grid851"
        units="cm"
        spacingx="5"
        spacingy="5"
-       empspacing="2" />
+       empspacing="2"
+       originx="0"
+       originy="0"
+       visible="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -237,7 +243,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
