@@ -32,6 +32,8 @@ Our main stickers are:
 
 * ``stickers/sticker-hexagons-02-plan.svg``
 * ``stickers/sticker-hexagons-02-nameurl.svg``
+* ``stickers/sticker-garage-hexagon.svg``
+* ``stickers/sticker-do-disturb-hexagon.svg``
 
 The hexagonal stickers should be printed 4.399 cm wide.  The height
 (of full hexagon) would be 5.080 cm.
