@@ -951,8 +951,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.0594923"
-     inkscape:cx="81.712904"
-     inkscape:cy="106.55363"
+     inkscape:cx="81.87633"
+     inkscape:cy="109.82214"
      inkscape:document-units="cm"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
@@ -1036,7 +1036,10 @@
        width="49.493351"
        height="53.975002"
        x="-2.6337581"
-       y="-1.4031173" /><g
+       y="-1.4031173"
+       inkscape:export-filename="sticker-do-disturb-hexagon.pdf"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" /><g
        id="g15"
        transform="matrix(0.04987985,0,0,0.04987985,-33.17626,29.247898)"><path
          d="m 71.59,68.58 h -6.42 -6.42 c 0,20.36 -4.21,28.52 -4.21,28.52 H 75.8 c 0,-0.01 -4.21,-8.17 -4.21,-28.52 z"
