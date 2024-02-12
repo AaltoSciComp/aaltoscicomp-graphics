@@ -30,13 +30,14 @@ Hex sticker spec: https://github.com/terinjokes/StickersStandard
 
 Our main stickers are:
 
-* ``stickers/sticker-hexagons-02-plan.svg``
+* ``stickers/sticker-hexagons-02-plain.svg``
 * ``stickers/sticker-hexagons-02-nameurl.svg``
 * ``stickers/sticker-garage-hexagon.svg``
 * ``stickers/sticker-do-disturb-hexagon.svg``
 
 The hexagonal stickers should be printed 4.399 cm wide.  The height
-(of full hexagon) would be 5.080 cm.
+(of full hexagon ones) would be 5.080 cm.  The magenta line is the cut
+line.
 
 
 
