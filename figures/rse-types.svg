@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    width="20cm"
-   height="14.8cm"
-   viewBox="0 0 200 148"
+   height="15.8cm"
+   viewBox="0 0 200 158"
    version="1.1"
    id="svg8"
    inkscape:version="1.3 (0e150ed, 2023-07-21)"
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="369.21076"
-     inkscape:cy="274.76149"
+     inkscape:zoom="1"
+     inkscape:cx="454"
+     inkscape:cy="378"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -37,8 +37,8 @@
      units="cm"
      inkscape:window-width="1546"
      inkscape:window-height="940"
-     inkscape:window-x="1368"
-     inkscape:window-y="878"
+     inkscape:window-x="1370"
+     inkscape:window-y="886"
      inkscape:window-maximized="0"
      inkscape:snap-text-baseline="true"
      inkscape:snap-global="true"
@@ -65,7 +65,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -156,7 +155,7 @@
          id="tspan1696"
          x="69.999992"
          y="37.500004"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Central service staff</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Central teams</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
@@ -175,33 +174,28 @@
        y="50.000004"
        id="text1708"><tspan
          sodipodi:role="line"
-         id="tspan1706"
          x="69.999992"
          y="50.000004"
-         style="stroke-width:0.264583">Team waits for requests</tspan><tspan
+         style="stroke-width:0.264583"
+         id="tspan9">Economies of scale and</tspan><tspan
          sodipodi:role="line"
          x="69.999992"
          y="57.937504"
          style="stroke-width:0.264583"
-         id="tspan1710">and handles them,</tspan><tspan
+         id="tspan13">lots of expertise.</tspan><tspan
          sodipodi:role="line"
          x="69.999992"
          y="65.875"
          style="stroke-width:0.264583"
-         id="tspan1712">happy to receive any</tspan><tspan
+         id="tspan26">Promotes the unit's</tspan><tspan
          sodipodi:role="line"
          x="69.999992"
          y="73.8125"
          style="stroke-width:0.264583"
-         id="tspan1714">questions.</tspan><tspan
+         id="tspan27">strategy.</tspan><tspan
          sodipodi:role="line"
          x="69.999992"
          y="81.75"
-         style="stroke-width:0.264583"
-         id="tspan1754">e.g. Staff RSE</tspan><tspan
-         sodipodi:role="line"
-         x="69.999992"
-         y="89.6875"
          style="stroke-width:0.264583"
          id="tspan1752" /></text>
     <text
@@ -214,27 +208,43 @@
          id="tspan1716"
          x="69.999992"
          y="100"
-         style="stroke-width:0.264583">Does mostly specific work,</tspan><tspan
+         style="stroke-width:0.264583">Mostly specific work</tspan><tspan
          sodipodi:role="line"
          x="69.999992"
          y="107.9375"
          style="stroke-width:0.264583"
-         id="tspan1720">waits for specific </tspan><tspan
+         id="tspan1724">for whoever needs it.</tspan><tspan
          sodipodi:role="line"
          x="69.999992"
          y="115.875"
          style="stroke-width:0.264583"
-         id="tspan1722">questions to come in </tspan><tspan
+         id="tspan11">Possibly connected to some</tspan><tspan
          sodipodi:role="line"
          x="69.999992"
          y="123.8125"
          style="stroke-width:0.264583"
-         id="tspan1724">related to their topic.</tspan><tspan
+         id="tspan12">infrastructure or special</tspan><tspan
          sodipodi:role="line"
          x="69.999992"
          y="131.75"
          style="stroke-width:0.264583"
-         id="tspan1756">e.g. Infra Engineers</tspan></text>
+         id="tspan23">systems.</tspan><tspan
+         sodipodi:role="line"
+         x="69.999992"
+         y="139.6875"
+         style="stroke-width:0.264583"
+         id="tspan1756" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="100"
+       y="147.5"
+       id="text1718-1"><tspan
+         sodipodi:role="line"
+         x="100.8128"
+         y="147.5"
+         style="stroke-width:0.264583"
+         id="tspan19">Many combinations of the above will exist. </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
@@ -242,30 +252,30 @@
        y="50.000004"
        id="text1728"><tspan
          sodipodi:role="line"
-         id="tspan1726"
          x="149.99998"
          y="50.000004"
-         style="stroke-width:0.264583">&quot;Computer guru&quot; in a group,</tspan><tspan
+         style="stroke-width:0.264583"
+         id="tspan1750">Excellent local connection</tspan><tspan
          sodipodi:role="line"
          x="149.99998"
          y="57.937504"
          style="stroke-width:0.264583"
-         id="tspan1730">helps with anything but</tspan><tspan
+         id="tspan21">to help with anything.</tspan><tspan
          sodipodi:role="line"
          x="149.99998"
          y="65.875"
          style="stroke-width:0.264583"
-         id="tspan1732">only for people they know.</tspan><tspan
+         id="tspan22">Knows everything going on.</tspan><tspan
          sodipodi:role="line"
          x="149.99998"
          y="73.8125"
          style="stroke-width:0.264583"
-         id="tspan1748" /><tspan
+         id="tspan7">Probably good connections</tspan><tspan
          sodipodi:role="line"
          x="149.99998"
          y="81.75"
          style="stroke-width:0.264583"
-         id="tspan1750">e.g. Lab Managers</tspan></text>
+         id="tspan28">to others for harder tasks.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
@@ -287,27 +297,17 @@
          id="tspan1738"
          x="149.99998"
          y="100"
-         style="stroke-width:0.264583">Specialist of a certain tool</tspan><tspan
+         style="stroke-width:0.264583">Specialist operators</tspan><tspan
          sodipodi:role="line"
          x="149.99998"
          y="107.9375"
          style="stroke-width:0.264583"
-         id="tspan1742">within a certain group,</tspan><tspan
+         id="tspan1758">for special tools or</tspan><tspan
          sodipodi:role="line"
          x="149.99998"
          y="115.875"
          style="stroke-width:0.264583"
-         id="tspan1744">not available for outside</tspan><tspan
-         sodipodi:role="line"
-         x="149.99998"
-         y="123.8125"
-         style="stroke-width:0.264583"
-         id="tspan1746">support requests.</tspan><tspan
-         sodipodi:role="line"
-         x="149.99998"
-         y="131.75"
-         style="stroke-width:0.264583"
-         id="tspan1758">e.g. co-funded experts</tspan></text>
+         id="tspan24">applications.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
@@ -340,8 +340,14 @@
        id="text1770"><tspan
          sodipodi:role="line"
          id="tspan1768"
-         x="100.00001"
+         x="100"
          y="12.5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Types of Research Software Engineer</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Types of Research (Software) Engineer</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 64.999999,147.5 v 0"
+       id="path18"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
