@@ -88,15 +88,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1217324"
-     inkscape:cx="337.87024"
-     inkscape:cy="337.87024"
+     inkscape:cx="338.31598"
+     inkscape:cy="336.97877"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1727"
      inkscape:window-height="1000"
-     inkscape:window-x="1383"
-     inkscape:window-y="882"
+     inkscape:window-x="1307"
+     inkscape:window-y="849"
      inkscape:window-maximized="0"
      units="cm"
      gridtolerance="10000"
@@ -437,7 +437,7 @@
          x="80.451553"
          y="296.40976"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         id="tspan20">DRAFT: this is made to understand the types of requests we get.to better manage our time. </tspan></text>
+         id="tspan20">This is made to understand the types of requests we get to understand where our time goes. </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -564,7 +564,7 @@
          x="55"
          y="40.000011"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
-         id="tspan11">version control</tspan><tspan
+         id="tspan11">Version control</tspan><tspan
          sodipodi:role="line"
          x="55"
          y="45.291672"
