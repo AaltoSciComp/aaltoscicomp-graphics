@@ -46,3 +46,12 @@ Patches
 
 First order was 6cm tall.  Sample filename for reordering:
 ``284-38424.jpg``.
+
+
+
+License / reuse
+---------------
+
+In principle the self-made items would be CC-BY 4.0.  But right now
+it's not clear what is made by us.  In general reuse is encouraged
+though.  A license doesn't include misrepresenting us.
