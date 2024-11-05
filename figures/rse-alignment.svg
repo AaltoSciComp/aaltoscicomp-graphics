@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="15cm"
    height="17cm"
    viewBox="0 0 150 170"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
    sodipodi:docname="rse-alignment.svg"
-   inkscape:export-filename="/home/rkdarst/git/aalto-scicomp-graphics/rse-alignment.png"
+   inkscape:export-filename="rse-alignment.png"
    inkscape:export-xdpi="173.39999"
-   inkscape:export-ydpi="173.39999">
+   inkscape:export-ydpi="173.39999"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -83,15 +83,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1217324"
-     inkscape:cx="272.62529"
-     inkscape:cy="325.68427"
+     inkscape:cx="201.91982"
+     inkscape:cy="315.58329"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="1053"
-     inkscape:window-x="1475"
-     inkscape:window-y="843"
+     inkscape:current-layer="layer4"
+     showgrid="true"
+     inkscape:window-width="1390"
+     inkscape:window-height="1016"
+     inkscape:window-x="1515"
+     inkscape:window-y="849"
      inkscape:window-maximized="0"
      units="cm"
      gridtolerance="10000"
@@ -99,7 +99,10 @@
      showguides="true"
      inkscape:snap-text-baseline="true"
      inkscape:pagecheckerboard="true"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff">
     <inkscape:grid
        type="xygrid"
        id="grid834"
@@ -109,8 +112,27 @@
        empspacing="2"
        empcolor="#0000ba"
        empopacity="0.25098039"
-       enabled="true"
-       dotted="false" />
+       enabled="false"
+       dotted="false"
+       originx="0"
+       originy="0"
+       visible="true" />
+    <inkscape:grid
+       id="grid2"
+       units="cm"
+       originx="0"
+       originy="0"
+       spacingx="4.9999999"
+       spacingy="4.9999999"
+       empcolor="#3f3fff"
+       empopacity="0.25098039"
+       color="#3f3fff"
+       opacity="0.1254902"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -120,7 +142,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -348,6 +369,126 @@
          x="80.002068"
          y="301.89771"
          style="font-size:3.52778px;stroke-width:0.264583">scicomp.aalto.fi/rse/</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Percentages"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#800000;stroke-width:0.264583"
+       x="8.3002224"
+       y="36.747658"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="fill:#800000;stroke-width:0.264583"
+         x="8.3002224"
+         y="36.747658">20%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#800000;stroke-width:0.264583"
+       x="8.2687845"
+       y="76.433556"
+       id="text3-7"><tspan
+         sodipodi:role="line"
+         id="tspan3-9"
+         style="fill:#800000;stroke-width:0.264583"
+         x="8.2687845"
+         y="76.433556">20%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#800000;stroke-width:0.264583"
+       x="7.8322835"
+       y="116.34509"
+       id="text3-2"><tspan
+         sodipodi:role="line"
+         id="tspan3-0"
+         style="fill:#800000;stroke-width:0.264583"
+         x="7.832283"
+         y="116.34509">60%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa4400;stroke-width:0.264583"
+       x="25"
+       y="165"
+       id="text3-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-6"
+         style="fill:#aa4400;stroke-width:0.264583"
+         x="25"
+         y="165">G: 15%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa4400;stroke-width:0.264583"
+       x="50"
+       y="165"
+       id="text3-2-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-6-5"
+         style="fill:#aa4400;stroke-width:0.264583"
+         x="50"
+         y="165">S: 20%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa4400;stroke-width:0.264583"
+       x="110"
+       y="165"
+       id="text3-2-3-7-3"><tspan
+         sodipodi:role="line"
+         style="fill:#aa4400;stroke-width:0.264583"
+         x="110"
+         y="165"
+         id="tspan1">M: 50%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
+       x="52.883484"
+       y="18.521744"
+       id="text3-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-3"
+         style="fill:#0000ff;stroke-width:0.264583"
+         x="52.883484"
+         y="18.521744">50%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
+       x="102.35452"
+       y="16.949844"
+       id="text3-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-5"
+         style="fill:#0000ff;stroke-width:0.264583"
+         x="102.35452"
+         y="16.949844">35%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
+       x="133.80164"
+       y="19.946026"
+       id="text3-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan3-0-2"
+         style="fill:#0000ff;stroke-width:0.264583"
+         x="133.80164"
+         y="19.946026">15%</tspan></text>
+    <g
+       id="g1"
+       transform="translate(91.123003,-2.1516343)">
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#aa4400;stroke-width:0.264583"
+         x="43.876999"
+         y="167.15164"
+         id="text3-2-3-7-6"><tspan
+           sodipodi:role="line"
+           id="tspan3-0-6-5-2"
+           style="fill:#aa4400;stroke-width:0.264583"
+           x="43.876999"
+           y="167.15164">L: 15%</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
