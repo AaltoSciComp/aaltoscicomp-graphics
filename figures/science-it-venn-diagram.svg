@@ -3,13 +3,13 @@
 
 <svg
    width="21cm"
-   height="14.8cm"
-   viewBox="0 0 210 148"
+   height="15cm"
+   viewBox="0 0 210 150"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    sodipodi:docname="science-it-venn-diagram.svg"
-   inkscape:export-filename="science-it-venn-diagram.pdf"
+   inkscape:export-filename="science-it-venn-diagram.png"
    inkscape:export-xdpi="173.39999"
    inkscape:export-ydpi="173.39999"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,12 +27,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="cm"
      inkscape:zoom="1.1893651"
-     inkscape:cx="390.5445"
-     inkscape:cy="276.19778"
-     inkscape:window-width="1379"
+     inkscape:cx="287.96877"
+     inkscape:cy="314.45348"
+     inkscape:window-width="1820"
      inkscape:window-height="972"
-     inkscape:window-x="630"
-     inkscape:window-y="216"
+     inkscape:window-x="365"
+     inkscape:window-y="83"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -55,11 +55,112 @@
        visible="true" />
   </sodipodi:namedview>
   <defs
-     id="defs1" />
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3">
+      <path
+         style="fill:#008080;stroke:#000000;stroke-width:0.00999998;stroke-dasharray:none"
+         d="m 220.00001,54.999999 12.5,-7.500001 h -12.5"
+         id="path3"
+         sodipodi:nodetypes="ccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3-9">
+      <path
+         style="fill:#008080;stroke:#000000;stroke-width:0.00999998;stroke-dasharray:none"
+         d="m 220.00001,54.999999 12.5,-7.500001 h -12.5"
+         id="path3-1"
+         sodipodi:nodetypes="ccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3-6">
+      <path
+         style="fill:#008080;stroke:#000000;stroke-width:0.00999998;stroke-dasharray:none"
+         d="m 220.00001,54.999999 12.5,-7.500001 h -12.5"
+         id="path3-0"
+         sodipodi:nodetypes="ccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3-7">
+      <path
+         style="fill:#008080;stroke:#000000;stroke-width:0.00999998;stroke-dasharray:none"
+         d="m 220.00001,54.999999 12.5,-7.500001 h -12.5"
+         id="path3-9"
+         sodipodi:nodetypes="ccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3-5">
+      <path
+         style="fill:#008080;stroke:#000000;stroke-width:0.00999998;stroke-dasharray:none"
+         d="m 220.00001,54.999999 12.5,-7.500001 h -12.5"
+         id="path3-92"
+         sodipodi:nodetypes="ccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3-61">
+      <path
+         style="fill:#008080;stroke:#000000;stroke-width:0.00999998;stroke-dasharray:none"
+         d="m 220.00001,54.999999 12.5,-7.500001 h -12.5"
+         id="path3-2"
+         sodipodi:nodetypes="ccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3-61-7">
+      <path
+         style="fill:#008080;stroke:#000000;stroke-width:0.00999998;stroke-dasharray:none"
+         d="m 220.00001,54.999999 12.5,-7.500001 h -12.5"
+         id="path3-2-8"
+         sodipodi:nodetypes="ccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3-61-1">
+      <path
+         style="fill:#008080;stroke:#000000;stroke-width:0.00999998;stroke-dasharray:none"
+         d="m 220.00001,54.999999 12.5,-7.500001 h -12.5"
+         id="path3-2-0"
+         sodipodi:nodetypes="ccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3-61-15">
+      <path
+         style="fill:#008080;stroke:#000000;stroke-width:0.00999998;stroke-dasharray:none"
+         d="m 220.00001,54.999999 12.5,-7.500001 h -12.5"
+         id="path3-2-5"
+         sodipodi:nodetypes="ccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3-61-19">
+      <path
+         style="fill:#008080;stroke:#000000;stroke-width:0.00999998;stroke-dasharray:none"
+         d="m 220.00001,54.999999 12.5,-7.500001 h -12.5"
+         id="path3-2-6"
+         sodipodi:nodetypes="ccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3-61-5">
+      <path
+         style="fill:#008080;stroke:#000000;stroke-width:0.00999998;stroke-dasharray:none"
+         d="m 220.00001,54.999999 12.5,-7.500001 h -12.5"
+         id="path3-2-66"
+         sodipodi:nodetypes="ccc" />
+    </clipPath>
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="display:inline">
     <rect
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect1"
@@ -329,6 +430,23 @@
        x="105.50001"
        y="55.499996" />
     <rect
+       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-35"
+       width="11.500006"
+       height="6.5000029"
+       x="220.5"
+       y="48"
+       clip-path="url(#clipPath3)" />
+    <rect
+       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-35-0"
+       width="11.500006"
+       height="6.5000029"
+       x="220.5"
+       y="48"
+       clip-path="url(#clipPath3-9)"
+       transform="translate(-114.99999,7.4999962)" />
+    <rect
        style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-3"
        width="11.500006"
@@ -350,47 +468,61 @@
        x="158"
        y="55.5" />
     <rect
-       style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-61"
        width="11.500006"
        height="6.5000029"
        x="118.00001"
        y="88" />
     <rect
-       style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-84"
        width="11.500006"
        height="6.5000029"
        x="135.5"
        y="88" />
     <rect
-       style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-30"
        width="11.500006"
        height="6.5000029"
        x="153"
        y="88" />
     <rect
-       style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-30-5"
+       width="4.000001"
+       height="3.9999957"
+       x="10.499998"
+       y="143" />
+    <rect
+       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-4"
        width="11.500006"
        height="6.5000029"
        x="118"
-       y="100.5" />
+       y="98" />
     <rect
-       style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-1"
        width="11.500006"
        height="6.5000029"
        x="135.5"
-       y="100.5" />
+       y="98" />
     <rect
-       style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-62"
        width="11.500006"
        height="6.5000029"
        x="153"
-       y="100.5" />
+       y="98" />
+    <rect
+       style="display:inline;fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-62-7"
+       width="11.500006"
+       height="6.5000029"
+       x="118"
+       y="108" />
     <rect
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-dasharray:4, 1;stroke-dashoffset:0;paint-order:stroke fill markers"
        id="rect11"
@@ -409,5 +541,216 @@
          style="font-size:3.52778px;stroke-width:0.264583"
          x="61.193962"
          y="127.32634">(possible affiliates in research groups here)</tspan></text>
+    <rect
+       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-35-6"
+       width="11.500006"
+       height="6.5000029"
+       x="220.5"
+       y="48"
+       clip-path="url(#clipPath3-6)"
+       transform="translate(-97.499973,7.5)" />
+    <rect
+       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-35-2"
+       width="11.500006"
+       height="6.5000029"
+       x="220.5"
+       y="48"
+       clip-path="url(#clipPath3-7)"
+       transform="translate(-80,7.5)" />
+    <rect
+       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-35-9"
+       width="11.500006"
+       height="6.5000029"
+       x="220.5"
+       y="48"
+       clip-path="url(#clipPath3-5)"
+       transform="translate(-62.5,7.5)" />
+    <rect
+       style="fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-35-1"
+       width="11.500006"
+       height="6.5000029"
+       x="220.5"
+       y="48"
+       clip-path="url(#clipPath3-61)"
+       transform="translate(-140,45)" />
+    <rect
+       style="display:inline;fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-35-1-3"
+       width="11.500006"
+       height="6.5000029"
+       x="220.5"
+       y="48"
+       clip-path="url(#clipPath3-61-19)"
+       transform="translate(-184.97557,44.999992)" />
+    <rect
+       style="display:inline;fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-35-1-04"
+       width="11.500006"
+       height="6.5000029"
+       x="220.5"
+       y="48"
+       clip-path="url(#clipPath3-61-5)"
+       transform="translate(-160,44.999992)" />
+    <rect
+       style="fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-35-1-0"
+       width="11.500006"
+       height="6.5000029"
+       x="220.5"
+       y="48"
+       clip-path="url(#clipPath3-61-7)"
+       transform="translate(-140,54.999996)" />
+    <rect
+       style="fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-35-1-2"
+       width="11.500006"
+       height="6.5000029"
+       x="220.5"
+       y="48"
+       clip-path="url(#clipPath3-61-1)"
+       transform="translate(-200,44.99999)" />
+    <rect
+       style="fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-35-1-6"
+       width="11.500006"
+       height="6.5000029"
+       x="220.5"
+       y="48"
+       clip-path="url(#clipPath3-61-15)"
+       transform="translate(-200,54.999992)" />
+    <rect
+       style="display:inline;fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-30-5-2"
+       width="4.000001"
+       height="3.9999957"
+       x="60.5"
+       y="143" />
+    <rect
+       style="display:inline;fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-30-5-6"
+       width="4.000001"
+       height="3.9999957"
+       x="140.5"
+       y="143" />
+    <text
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
+       x="17.295456"
+       y="147.18176"
+       id="text6-2-1"><tspan
+         sodipodi:role="line"
+         id="tspan6-4-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.01"
+         x="17.295456"
+         y="147.18176">SCI funding</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
+       x="67.206558"
+       y="147.18176"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.01"
+         x="67.206558"
+         y="147.18176">Other internal funding</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
+       x="147.23196"
+       y="147.18176"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.01"
+         x="147.23196"
+         y="147.18176">3rd party funding</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Names"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
+       x="82.45134"
+       y="97.494987"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.01"
+         x="82.45134"
+         y="97.494987">RD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
+       x="82.559921"
+       y="107.46112"
+       id="text6-0"><tspan
+         sodipodi:role="line"
+         id="tspan6-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.01"
+         x="82.559921"
+         y="107.46112">EG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
+       x="62.474422"
+       y="97.494987"
+       id="text6-5"><tspan
+         sodipodi:role="line"
+         id="tspan6-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.01"
+         x="62.474422"
+         y="97.494987">MH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
+       x="37.365307"
+       y="97.461128"
+       id="text6-58"><tspan
+         sodipodi:role="line"
+         id="tspan6-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.01"
+         x="37.365307"
+         y="97.461128">SL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
+       x="22.400202"
+       y="97.461128"
+       id="text6-2"><tspan
+         sodipodi:role="line"
+         id="tspan6-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.01"
+         x="22.400202"
+         y="97.461128">SÄ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
+       x="22.53476"
+       y="107.49499"
+       id="text6-9"><tspan
+         sodipodi:role="line"
+         id="tspan6-08"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.01"
+         x="22.53476"
+         y="107.49499">IT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
+       x="22.117655"
+       y="69.994987"
+       id="text6-03"><tspan
+         sodipodi:role="line"
+         id="tspan6-40"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.01"
+         x="22.117655"
+         y="69.994987">MS</tspan></text>
   </g>
 </svg>
