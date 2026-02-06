@@ -3,8 +3,8 @@
 
 <svg
    width="21cm"
-   height="15cm"
-   viewBox="0 0 210 150"
+   height="15.5cm"
+   viewBox="0 0 210 155"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="cm"
      inkscape:zoom="1.1893651"
-     inkscape:cx="287.96877"
-     inkscape:cy="314.45348"
-     inkscape:window-width="1820"
+     inkscape:cx="228.69344"
+     inkscape:cy="301.84171"
+     inkscape:window-width="2109"
      inkscape:window-height="972"
      inkscape:window-x="365"
      inkscape:window-y="83"
@@ -162,77 +162,77 @@
      id="layer1"
      style="display:inline">
     <rect
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect1"
-       width="189.00002"
-       height="89"
+       width="184"
+       height="81.5"
        x="10.5"
        y="30.499996"
        rx="10.000001"
        ry="9.999999" />
     <rect
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.999991;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect1-7"
-       width="199"
-       height="118.99999"
+       width="194"
+       height="121.5"
        x="5.5"
        y="20.5"
        rx="9.999999"
        ry="10" />
     <rect
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.999993;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect1-0"
        width="41.500004"
-       height="71.5"
+       height="66.5"
        x="15.499999"
-       y="45.499996"
+       y="40.499996"
        rx="10"
        ry="10" />
     <rect
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.999981;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.999977;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect1-0-8"
        width="81.500015"
-       height="41.500011"
-       x="15.499997"
-       y="75.499992"
+       height="39.000015"
+       x="15.49999"
+       y="67.999992"
        rx="9.999999"
        ry="10" />
     <rect
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linejoin:round;stroke-dasharray:4, 0.999997;stroke-dashoffset:0;paint-order:stroke fill markers"
        id="rect1-0-9"
        width="81.498283"
-       height="71.499992"
+       height="66.5"
        x="15.501721"
-       y="45.5"
+       y="40.5"
        rx="9.999999"
        ry="9.999999" />
     <rect
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:4.00001, 1;stroke-dashoffset:0;paint-order:stroke fill markers"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linejoin:round;stroke-dasharray:4.00001, 0.999997;stroke-dashoffset:0;paint-order:stroke fill markers"
        id="rect1-0-9-7"
        width="114.00025"
-       height="93.999992"
+       height="94.499931"
        x="75.499992"
-       y="40.5"
+       y="45.500057"
        rx="10"
        ry="10" />
     <rect
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.999993;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.999988;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect1-5"
        width="89"
-       height="94.000008"
+       height="94.5"
        x="100.50001"
-       y="40.499996"
+       y="45.499996"
        rx="10"
        ry="10" />
     <rect
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.999994;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect1-5-8"
        width="71.499985"
-       height="59.500004"
-       x="113.00002"
-       y="72.999992"
+       height="53.500015"
+       x="113.50002"
+       y="83.499985"
        rx="10"
-       ry="10" />
+       ry="10.000001" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
@@ -242,8 +242,8 @@
          sodipodi:role="line"
          id="tspan1"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="105.00001"
-         y="14.999999">What is Science-IT?</tspan></text>
+         x="105"
+         y="14.999999">What is Aalto SciComp / Science-IT?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
@@ -256,7 +256,7 @@
          x="15.402967"
          y="37.4492">Science-IT<tspan
    style="font-size:3.52778px"
-   id="tspan7">  The formal organization</tspan></tspan></text>
+   id="tspan7">  The cost center and formal project</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
@@ -269,166 +269,166 @@
          x="12.5"
          y="27.499998">Aalto Scientific Computing <tspan
    style="font-size:3.52778px"
-   id="tspan8">Community and branding towards academic departments</tspan></tspan></text>
+   id="tspan8">The team and branding towards researchers</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.05;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
        x="22.5"
-       y="52.5"
+       y="47.5"
        id="text3"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.05;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="22.5"
-         y="52.5"
+         y="47.5"
          id="tspan10">HPC</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.05;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="22.5"
-         y="60.4375"
+         y="54.1675"
          id="tspan12">admins</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
        x="22.5"
-       y="82.5"
+       y="75"
        id="text3-9"><tspan
          sodipodi:role="line"
          id="tspan3-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="22.5"
-         y="82.5">Dept IT</tspan><tspan
+         y="75">Dept IT</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="22.5"
-         y="90.4375"
+         y="81.349998"
          id="tspan9">staff</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
-       x="107.50001"
-       y="47.5"
+       x="107.5"
+       y="52.5"
        id="text4"><tspan
          sodipodi:role="line"
          id="tspan4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="107.50001"
-         y="47.5">Research Sw Engrs</tspan></text>
+         x="107.5"
+         y="52.5">Research Sw Engrs</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
-       x="107.50001"
-       y="52.499996"
+       x="107.5"
+       y="57.499996"
        id="text4-7"><tspan
          sodipodi:role="line"
          id="tspan4-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="107.50001"
-         y="52.499996">Focusing on customer projects</tspan></text>
+         x="107.5"
+         y="57.499996">Focusing on customer projects</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
-       x="37.5"
-       y="90"
+       x="37.58342"
+       y="81.372574"
        id="text4-7-5"><tspan
          sodipodi:role="line"
          id="tspan4-6-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="37.5"
-         y="90">Dual roles</tspan></text>
+         x="37.58342"
+         y="81.372574">Dual roles</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
        x="40"
-       y="50"
+       y="45"
        id="text4-7-5-9"><tspan
          sodipodi:role="line"
          id="tspan4-6-3-1"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="40"
-         y="50">Triton</tspan><tspan
+         y="45">Triton</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="40"
-         y="54.409725"
+         y="49.409725"
          id="tspan3">mgmt</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
-       x="120.00001"
-       y="85"
+       x="120"
+       y="97.5"
        id="text4-7-3"><tspan
          sodipodi:role="line"
          id="tspan4-6-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="120.00001"
-         y="85">100% salary from one external project</tspan></text>
+         x="120"
+         y="97.5">100% salary from one external project</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
-       x="120.00001"
-       y="80"
+       x="120"
+       y="92.5"
        id="text5"><tspan
          sodipodi:role="line"
          id="tspan5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="120.00001"
-         y="80">Major project funding</tspan></text>
+         x="120"
+         y="92.5">Major project funding</tspan></text>
     <rect
-       style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:0;paint-order:stroke fill markers"
        id="rect6"
        width="11.500003"
        height="6.5000033"
        x="20.5"
-       y="65.5" />
+       y="58" />
     <rect
        style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-0"
        width="11.500004"
        height="6.5000033"
-       x="20.5"
-       y="92.999992" />
+       x="20.49999"
+       y="85.5" />
     <rect
        style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-06"
        width="11.500003"
        height="6.5000029"
-       x="20.5"
-       y="102.99999" />
+       x="20.49999"
+       y="95.5" />
     <rect
        style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-4"
        width="11.500002"
        height="6.5000019"
-       x="35.524426"
-       y="92.999992" />
+       x="35.524414"
+       y="85.5" />
     <rect
        style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:0.999998;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-77"
        width="11.500003"
        height="6.4999971"
-       x="60.5"
-       y="92.999992" />
+       x="60.499989"
+       y="85.5" />
     <rect
        style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-6"
        width="11.500004"
        height="6.5000024"
-       x="80.5"
-       y="93" />
+       x="80.499992"
+       y="85.500008" />
     <rect
        style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-45"
        width="11.500004"
        height="6.5000019"
-       x="80.5"
-       y="103" />
+       x="80.499992"
+       y="95.500008" />
     <rect
        style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49"
        width="11.500006"
        height="6.5000029"
-       x="105.50001"
-       y="55.499996" />
+       x="105.5"
+       y="60.499996" />
     <rect
        style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-35"
@@ -445,102 +445,102 @@
        x="220.5"
        y="48"
        clip-path="url(#clipPath3-9)"
-       transform="translate(-114.99999,7.4999962)" />
+       transform="translate(-115,12.499996)" />
     <rect
        style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-3"
        width="11.500006"
        height="6.5000029"
        x="123.00002"
-       y="55.5" />
+       y="60.5" />
     <rect
        style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-8"
        width="11.500006"
        height="6.5000029"
        x="140.5"
-       y="55.5" />
+       y="60.5" />
     <rect
        style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-6"
        width="11.500006"
        height="6.5000029"
        x="158"
-       y="55.5" />
+       y="60.5" />
     <rect
        style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-61"
        width="11.500006"
        height="6.5000029"
-       x="118.00001"
-       y="88" />
+       x="118"
+       y="100.5" />
     <rect
        style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-84"
        width="11.500006"
        height="6.5000029"
        x="135.5"
-       y="88" />
+       y="100.5" />
     <rect
        style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-30"
        width="11.500006"
        height="6.5000029"
        x="153"
-       y="88" />
+       y="100.5" />
     <rect
        style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-30-5"
        width="4.000001"
        height="3.9999957"
-       x="10.499998"
-       y="143" />
+       x="10.499997"
+       y="145.5" />
     <rect
-       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:0;paint-order:stroke fill markers"
        id="rect6-49-4"
        width="11.500006"
        height="6.5000029"
-       x="118"
-       y="98" />
+       x="117.99999"
+       y="115.5" />
     <rect
-       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:0;paint-order:stroke fill markers"
        id="rect6-49-1"
        width="11.500006"
        height="6.5000029"
        x="135.5"
-       y="98" />
+       y="115.5" />
     <rect
-       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:0;paint-order:stroke fill markers"
        id="rect6-49-62"
        width="11.500006"
        height="6.5000029"
        x="153"
-       y="98" />
+       y="115.5" />
     <rect
-       style="display:inline;fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="display:inline;fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:0;paint-order:stroke fill markers"
        id="rect6-49-62-7"
        width="11.500006"
        height="6.5000029"
-       x="118"
-       y="108" />
+       x="117.99999"
+       y="125.5" />
     <rect
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-dasharray:4, 1;stroke-dashoffset:0;paint-order:stroke fill markers"
        id="rect11"
        width="52.500004"
        height="4.9999995"
-       x="71.25"
-       y="123.78036" />
+       x="37.416275"
+       y="125.01234" />
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
-       x="61.193962"
-       y="127.32634"
+       x="25"
+       y="128.55832"
        id="text11"><tspan
          sodipodi:role="line"
          id="tspan11"
          style="font-size:3.52778px;stroke-width:0.264583"
-         x="61.193962"
-         y="127.32634">(possible affiliates in research groups here)</tspan></text>
+         x="25"
+         y="128.55832">(possible affiliates in research groups here)</tspan></text>
     <rect
        style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-35-6"
@@ -549,7 +549,7 @@
        x="220.5"
        y="48"
        clip-path="url(#clipPath3-6)"
-       transform="translate(-97.499973,7.5)" />
+       transform="translate(-97.49998,12.5)" />
     <rect
        style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-35-2"
@@ -558,7 +558,7 @@
        x="220.5"
        y="48"
        clip-path="url(#clipPath3-7)"
-       transform="translate(-80,7.5)" />
+       transform="translate(-80.000007,12.5)" />
     <rect
        style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-35-9"
@@ -567,7 +567,7 @@
        x="220.5"
        y="48"
        clip-path="url(#clipPath3-5)"
-       transform="translate(-62.5,7.5)" />
+       transform="translate(-62.500007,12.5)" />
     <rect
        style="fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-35-1"
@@ -576,7 +576,7 @@
        x="220.5"
        y="48"
        clip-path="url(#clipPath3-61)"
-       transform="translate(-140,45)" />
+       transform="translate(-140.00001,37.500009)" />
     <rect
        style="display:inline;fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-35-1-3"
@@ -585,7 +585,7 @@
        x="220.5"
        y="48"
        clip-path="url(#clipPath3-61-19)"
-       transform="translate(-184.97557,44.999992)" />
+       transform="translate(-184.97558,37.499999)" />
     <rect
        style="display:inline;fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-35-1-04"
@@ -594,7 +594,7 @@
        x="220.5"
        y="48"
        clip-path="url(#clipPath3-61-5)"
-       transform="translate(-160,44.999992)" />
+       transform="translate(-160.00001,37.500001)" />
     <rect
        style="fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-35-1-0"
@@ -603,7 +603,7 @@
        x="220.5"
        y="48"
        clip-path="url(#clipPath3-61-7)"
-       transform="translate(-140,54.999996)" />
+       transform="translate(-140.00001,47.500005)" />
     <rect
        style="fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-35-1-2"
@@ -612,7 +612,7 @@
        x="220.5"
        y="48"
        clip-path="url(#clipPath3-61-1)"
-       transform="translate(-200,44.99999)" />
+       transform="translate(-200.00001,37.499999)" />
     <rect
        style="fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-35-1-6"
@@ -621,54 +621,54 @@
        x="220.5"
        y="48"
        clip-path="url(#clipPath3-61-15)"
-       transform="translate(-200,54.999992)" />
+       transform="translate(-200.00001,47.499999)" />
     <rect
        style="display:inline;fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-30-5-2"
        width="4.000001"
        height="3.9999957"
        x="60.5"
-       y="143" />
+       y="145.5" />
     <rect
        style="display:inline;fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-30-5-6"
        width="4.000001"
        height="3.9999957"
        x="140.5"
-       y="143" />
+       y="145.5" />
     <text
        xml:space="preserve"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#008000;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
        x="17.295456"
-       y="147.18176"
+       y="149.68176"
        id="text6-2-1"><tspan
          sodipodi:role="line"
          id="tspan6-4-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.01"
          x="17.295456"
-         y="147.18176">SCI funding</tspan></text>
+         y="149.68176">SCI funding</tspan></text>
     <text
        xml:space="preserve"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
-       x="67.206558"
-       y="147.18176"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#1a1a1a;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
+       x="67.206551"
+       y="149.68176"
        id="text13"><tspan
          sodipodi:role="line"
          id="tspan13"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.01"
-         x="67.206558"
-         y="147.18176">Other internal funding</tspan></text>
+         x="67.206551"
+         y="149.68176">Other internal funding</tspan></text>
     <text
        xml:space="preserve"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#1a1a1a;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
        x="147.23196"
-       y="147.18176"
+       y="149.68176"
        id="text14"><tspan
          sodipodi:role="line"
          id="tspan14"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.01"
          x="147.23196"
-         y="147.18176">3rd party funding</tspan></text>
+         y="149.68176">3rd party funding</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -678,79 +678,79 @@
     <text
        xml:space="preserve"
        style="font-size:16.9333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
-       x="82.45134"
-       y="97.494987"
+       x="82.833687"
+       y="90"
        id="text6"><tspan
          sodipodi:role="line"
          id="tspan6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.01"
-         x="82.45134"
-         y="97.494987">RD</tspan></text>
+         x="82.833687"
+         y="90">RD</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16.9333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
-       x="82.559921"
-       y="107.46112"
+       x="82.942268"
+       y="99.966133"
        id="text6-0"><tspan
          sodipodi:role="line"
          id="tspan6-5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.01"
-         x="82.559921"
-         y="107.46112">EG</tspan></text>
+         x="82.942268"
+         y="99.966133">EG</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16.9333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
-       x="62.474422"
-       y="97.494987"
+       x="62.85677"
+       y="90"
        id="text6-5"><tspan
          sodipodi:role="line"
          id="tspan6-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.01"
-         x="62.474422"
-         y="97.494987">MH</tspan></text>
+         x="62.85677"
+         y="90">MH</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16.9333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
-       x="37.365307"
-       y="97.461128"
+       x="37.747654"
+       y="89.966141"
        id="text6-58"><tspan
          sodipodi:role="line"
          id="tspan6-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.01"
-         x="37.365307"
-         y="97.461128">SL</tspan></text>
+         x="37.747654"
+         y="89.966141">SL</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16.9333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
-       x="22.400202"
-       y="97.461128"
+       x="22.782547"
+       y="89.966141"
        id="text6-2"><tspan
          sodipodi:role="line"
          id="tspan6-4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.01"
-         x="22.400202"
-         y="97.461128">SÄ</tspan></text>
+         x="22.782547"
+         y="89.966141">SÄ</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16.9333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
-       x="22.53476"
-       y="107.49499"
+       x="22.917105"
+       y="100"
        id="text6-9"><tspan
          sodipodi:role="line"
          id="tspan6-08"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.01"
-         x="22.53476"
-         y="107.49499">IT</tspan></text>
+         x="22.917105"
+         y="100">IT</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16.9333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
-       x="22.117655"
-       y="69.994987"
+       x="22.5"
+       y="62.5"
        id="text6-03"><tspan
          sodipodi:role="line"
          id="tspan6-40"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.01"
-         x="22.117655"
-         y="69.994987">MS</tspan></text>
+         x="22.5"
+         y="62.5">MS</tspan></text>
   </g>
 </svg>
