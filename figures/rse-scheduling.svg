@@ -28,14 +28,14 @@
      inkscape:document-units="cm"
      showgrid="true"
      inkscape:zoom="0.78992994"
-     inkscape:cx="311.42002"
-     inkscape:cy="321.5475"
+     inkscape:cx="212.04412"
+     inkscape:cy="343.0684"
      inkscape:window-width="1429"
      inkscape:window-height="898"
-     inkscape:window-x="1384"
-     inkscape:window-y="885"
+     inkscape:window-x="1378"
+     inkscape:window-y="898"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer5"
      inkscape:export-bgcolor="#ffffffff">
     <inkscape:grid
        id="grid1"
@@ -53,7 +53,27 @@
        visible="true" />
   </sodipodi:namedview>
   <defs
-     id="defs1" />
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowTriangleStylized"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Stylized triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
+         id="path4" />
+    </marker>
+  </defs>
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -87,21 +107,21 @@
        x="315"
        y="77.500008" />
     <rect
-       style="fill:#800080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#5555ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-0-6"
        width="15.000004"
        height="4.9999995"
        x="298.99429"
        y="78.615799" />
     <rect
-       style="fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-8"
        width="17.5"
        height="4.9999995"
        x="241.25"
        y="85" />
     <rect
-       style="fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-4"
        width="17.5"
        height="4.9999995"
@@ -115,7 +135,7 @@
        x="277.5"
        y="82.500008" />
     <rect
-       style="fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-9"
        width="17.5"
        height="4.9999995"
@@ -129,7 +149,7 @@
        x="32.5"
        y="45" />
     <rect
-       style="fill:#800080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#5555ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-1"
        width="27.500002"
        height="9.999999"
@@ -221,133 +241,126 @@
        x="80"
        y="29.999996" />
     <rect
-       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#000055;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-3"
        width="47.500004"
        height="4.9999995"
        x="50"
        y="49.999996" />
     <rect
-       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#000055;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-3-3"
        width="20.625"
        height="4.9999995"
        x="76.875"
        y="55" />
     <rect
-       style="fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#2a2aff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-9"
        width="27.500002"
        height="4.9999995"
        x="95"
        y="59.999992" />
     <rect
-       style="fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#2a2aff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-9-6"
        width="7.5"
        height="10"
        x="87.5"
        y="40" />
     <rect
-       style="fill:#800080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#5555ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-5"
        width="8.125001"
        height="4.9999995"
        x="107.50001"
        y="35" />
     <rect
-       style="fill:#800080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#5555ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-0"
        width="15.000004"
        height="4.9999995"
        x="95"
        y="65" />
     <rect
-       style="fill:#800080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#5555ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-0-6-5"
        width="7.5000019"
        height="2.4999981"
        x="45"
        y="47.5" />
     <rect
-       style="fill:#800080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#5555ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-0-6-6"
        width="10.000005"
        height="9.9999981"
        x="127.50001"
        y="50" />
     <rect
-       style="fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#2a2aff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-7"
        width="27.500002"
        height="4.9999995"
        x="90"
        y="29.999996" />
     <rect
-       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#000055;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-72"
        width="9.9999943"
        height="10"
        x="60.000004"
        y="29.999998" />
     <rect
-       style="fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6"
        width="17.5"
        height="4.9999995"
        x="60.000004"
        y="54.999992" />
     <rect
-       style="fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-6"
        width="9.9999971"
        height="9.9999914"
        x="112.50001"
        y="50" />
     <rect
-       style="fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-6-76"
        width="7.4999962"
        height="9.9999914"
        x="100"
        y="40.000004" />
     <rect
-       style="fill:#554400;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#8080ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-6-1"
        width="10.000002"
        height="9.999999"
        x="72.5"
        y="40.000004" />
     <rect
-       style="fill:#554400;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#8080ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-6-1-1"
        width="7.5000029"
        height="4.9999995"
        x="97.5"
        y="55" />
     <rect
-       style="fill:#554400;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#8080ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-6-1-1-0"
        width="7.5000029"
        height="4.9999995"
        x="27.500002"
        y="45" />
     <rect
-       style="fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-8-7"
        width="10.000002"
        height="2.2763152"
        x="35"
        y="47.5" />
     <rect
-       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
-       id="rect4-6-8-0"
-       width="20.000002"
-       height="10.000001"
-       x="20"
-       y="59.999992" />
-    <rect
-       style="fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-4-0"
        width="14.999994"
        height="10.000001"
@@ -382,21 +395,21 @@
        x="122.5"
        y="35" />
     <rect
-       style="fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-9-6"
        width="12.499994"
        height="4.9999995"
        x="137.5"
        y="35" />
     <rect
-       style="fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-9-9"
        width="15.000001"
        height="4.9999995"
        x="30.000002"
        y="54.999992" />
     <rect
-       style="fill:#800080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#5555ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-91"
        width="35.000011"
        height="10"
@@ -410,7 +423,7 @@
        x="50"
        y="59.999992" />
     <rect
-       style="fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4"
        width="20.000002"
        height="10"
@@ -463,7 +476,7 @@
        x="32.5"
        y="105" />
     <rect
-       style="display:inline;fill:#800080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#5555ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-1-97"
        width="27.500002"
        height="10.000004"
@@ -548,119 +561,117 @@
        x="95"
        y="100" />
     <rect
-       style="display:inline;fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#000055;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-3-7"
        width="31.250002"
        height="4.9999995"
        x="66.25"
        y="109.99999" />
     <rect
-       style="display:inline;fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#000055;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-3-3-4"
        width="20.625"
        height="4.9999995"
        x="76.875"
        y="115" />
     <rect
-       style="display:inline;fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#2a2aff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-9-1"
        width="25.000006"
        height="10.000009"
        x="97.5"
        y="119.99998" />
     <rect
-       style="display:inline;fill:#800080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#5555ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-5-9"
        width="8.125001"
        height="4.9999995"
        x="107.50001"
        y="95" />
     <rect
-       style="display:inline;fill:#800080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#5555ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-0-0"
        width="20.000004"
        height="7.5000048"
        x="82.5"
        y="122.5" />
     <rect
-       style="display:inline;fill:#800080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#5555ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-0-6-5-8"
        width="7.5000019"
        height="5"
        x="45"
        y="105" />
     <rect
-       style="display:inline;fill:#008080;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#000055;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-0-6-6-8"
        width="22.50001"
        height="9.9999924"
        x="122.50002"
        y="109.99999" />
     <rect
-       style="display:inline;fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#2a2aff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-7-5"
        width="27.500002"
        height="4.9999995"
        x="90"
        y="89.999992" />
     <rect
-       style="display:inline;fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#000055;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-72-8"
        width="27.499983"
        height="10.000003"
        x="57.500011"
        y="89.999992" />
     <rect
-       style="display:inline;fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-43"
        width="17.5"
        height="4.9999995"
        x="60.000004"
        y="114.99999" />
     <rect
-       style="display:inline;fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-6-7"
        width="12.5"
        height="9.9999962"
        x="110"
        y="110" />
     <rect
-       style="display:inline;fill:#554400;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#8080ff;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-6-1-13"
        width="27.500004"
        height="7.5000019"
        x="67.5"
        y="102.5" />
     <rect
-       style="display:inline;fill:#554400;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#8080ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-6-1-1-8"
        width="12.500004"
        height="7.5000091"
        x="97.5"
        y="112.49999" />
     <rect
-       style="display:inline;fill:#554400;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#8080ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-6-1-1-0-0"
        width="20.000002"
        height="9.9999943"
        x="20"
        y="100" />
     <rect
-       style="display:inline;fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-8-7-7"
        width="10.000002"
        height="4.7763104"
        x="35"
        y="105.00001" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499998;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       d="m 39.999999,120 v 10"
+       id="path3-3-1"
+       sodipodi:nodetypes="cc" />
     <rect
-       style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
-       id="rect4-6-8-0-9"
-       width="20.000002"
-       height="10.000001"
-       x="20"
-       y="119.99998" />
-    <rect
-       style="display:inline;fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-4-0-3"
        width="14.999994"
        height="10.000001"
@@ -681,7 +692,7 @@
        x="45"
        y="115" />
     <rect
-       style="display:inline;fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-9-6-2"
        width="37.499989"
        height="10.000003"
@@ -695,21 +706,21 @@
        x="122.5"
        y="95" />
     <rect
-       style="display:inline;fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-9-9-0"
        width="20"
        height="10.000001"
        x="19.999998"
        y="110.00001" />
     <rect
-       style="display:inline;fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-9-9-0-5"
        width="4.9999976"
        height="4.9999933"
        x="40.000004"
        y="115.00001" />
     <rect
-       style="display:inline;fill:#800080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#5555ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-91-2"
        width="60.000011"
        height="7.4999981"
@@ -723,7 +734,7 @@
        x="50"
        y="119.99998" />
     <rect
-       style="display:inline;fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="display:inline;fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-75"
        width="30.000002"
        height="10.000005"
@@ -761,13 +772,22 @@
        height="2.5000038"
        x="72.5"
        y="89.999992" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none"
+       d="M 20,29.999999 H 160 V 70.000001 H 39.999999 L 40.000004,60 20,60.000001 Z"
+       id="path24"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none"
+       d="M 20,90.000002 H 160 V 130 H 39.999999 l 5e-6,-10 H 20 Z"
+       id="path24-3"
+       sodipodi:nodetypes="ccccccc" />
   </g>
   <g
      inkscape:label="Base"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="fill:#d45500;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-1-7-5"
@@ -810,15 +830,6 @@
        height="4.9999995"
        x="348.50571"
        y="121.3842" />
-    <rect
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers"
-       id="rect1"
-       width="140.00002"
-       height="40"
-       x="20"
-       y="30"
-       ry="0.75362706"
-       rx="0" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        d="M 20.000001,39.999997 H 159.75"
@@ -834,15 +845,11 @@
        d="m 20.000001,59.999996 140.000009,10e-7"
        id="path3"
        sodipodi:nodetypes="cc" />
-    <rect
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers"
-       id="rect1-1"
-       width="140.00002"
-       height="40"
-       x="20"
-       y="90"
-       ry="1.404251e-06"
-       rx="1.404251e-06" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499998;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers;stroke-linecap:butt"
+       d="m 39.999999,60.000001 v 10"
+       id="path3-3"
+       sodipodi:nodetypes="cc" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        d="M 20.000003,99.99999 H 159.75"
@@ -872,7 +879,7 @@
        y="135"
        ry="0" />
     <rect
-       style="display:inline;fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:normal"
+       style="display:inline;fill:#000055;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:normal"
        id="rect3-4"
        width="5.0000005"
        height="4.9999995"
@@ -888,23 +895,23 @@
        y="145"
        ry="0" />
     <rect
-       style="display:inline;fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:normal"
+       style="display:inline;fill:#2a2aff;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:normal"
        id="rect3-24"
-       width="5.0000005"
-       height="4.9999995"
-       x="72.5"
-       y="145"
-       ry="0" />
-    <rect
-       style="display:inline;fill:#800080;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:normal"
-       id="rect3-1"
        width="5.0000005"
        height="4.9999995"
        x="80"
        y="145"
        ry="0" />
     <rect
-       style="display:inline;fill:#808000;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:normal"
+       style="display:inline;fill:#5555ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:normal"
+       id="rect3-1"
+       width="5.0000005"
+       height="4.9999995"
+       x="87.5"
+       y="145"
+       ry="0" />
+    <rect
+       style="display:inline;fill:#8080ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:normal"
        id="rect3-5"
        width="5.0000005"
        height="4.9999995"
@@ -912,11 +919,11 @@
        y="145"
        ry="0" />
     <rect
-       style="display:inline;fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:normal"
+       style="display:inline;fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:normal"
        id="rect3-5-6"
        width="5.0000005"
        height="4.9999995"
-       x="87.5"
+       x="72.5"
        y="145"
        ry="0" />
     <text
@@ -971,7 +978,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="165"
          y="95"
-         id="tspan9-4">Less SCI funding</tspan><tspan
+         id="tspan9-4">More 3rd party project funding</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="165"
@@ -1108,6 +1115,17 @@
          y="57.499992">RSE 3</tspan></text>
     <text
        xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+       x="90"
+       y="75"
+       id="text6-61"><tspan
+         sodipodi:role="line"
+         id="tspan6-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="90"
+         y="75">Time</tspan></text>
+    <text
+       xml:space="preserve"
        style="display:inline;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
        x="2.4999998"
        y="67.5"
@@ -1172,5 +1190,10 @@
          style="stroke-width:0.264583"
          x="2.4999995"
          y="127.5">RSE 4</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;marker-end:url(#ArrowTriangleStylized)"
+       d="m 94.999999,73.657893 10.000001,0"
+       id="path25"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
