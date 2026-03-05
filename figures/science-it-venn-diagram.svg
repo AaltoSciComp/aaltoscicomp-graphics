@@ -7,7 +7,7 @@
    viewBox="0 0 210 155"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="science-it-venn-diagram.svg"
    inkscape:export-filename="science-it-venn-diagram.png"
    inkscape:export-xdpi="173.39999"
@@ -26,13 +26,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="cm"
-     inkscape:zoom="1.1893651"
-     inkscape:cx="228.69344"
-     inkscape:cy="301.84171"
-     inkscape:window-width="2109"
-     inkscape:window-height="972"
-     inkscape:window-x="365"
-     inkscape:window-y="83"
+     inkscape:zoom="0.94874011"
+     inkscape:cx="325.6951"
+     inkscape:cy="270.88557"
+     inkscape:window-width="1920"
+     inkscape:window-height="1200"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -154,6 +154,195 @@
          d="m 220.00001,54.999999 12.5,-7.500001 h -12.5"
          id="path3-2-66"
          sodipodi:nodetypes="ccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+         d="M 217.5,69.999999 H 220 L 227.5,60 h -10 z"
+         id="path5"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+         d="m 220,85 h 5 l 7.5,-12.500001 H 220 V 85"
+         id="path6"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5-4">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+         d="M 217.5,69.999999 H 220 L 227.5,60 h -10 z"
+         id="path5-4"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6-4">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+         d="m 220,85 h 5 l 7.5,-12.500001 H 220 V 85"
+         id="path6-4"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5-4-9">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+         d="M 217.5,69.999999 H 220 L 227.5,60 h -10 z"
+         id="path5-4-6"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6-4-2">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+         d="m 220,85 h 5 l 7.5,-12.500001 H 220 V 85"
+         id="path6-4-1"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3-6-3">
+      <path
+         style="fill:#008080;stroke:#000000;stroke-width:0.00999998;stroke-dasharray:none"
+         d="m 220.00001,54.999999 12.5,-7.500001 h -12.5"
+         id="path3-0-6"
+         sodipodi:nodetypes="ccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath637">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+         d="m 215.29999,94.700003 h 5 l 7.5,-12.499998 h -12.5 v 12.499998"
+         id="path639"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath637-2">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+         d="m 215.29999,94.700003 h 5 l 7.5,-12.499998 h -12.5 v 12.499998"
+         id="path639-9"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3-9-7">
+      <path
+         style="fill:#008080;stroke:#000000;stroke-width:0.00999998;stroke-dasharray:none"
+         d="m 220.00001,54.999999 12.5,-7.500001 h -12.5"
+         id="path3-1-0"
+         sodipodi:nodetypes="ccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath637-2-3">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+         d="m 215.29999,94.700003 h 5 l 7.5,-12.499998 h -12.5 v 12.499998"
+         id="path639-9-6"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath637-2-6">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+         d="m 215.29999,94.700003 h 5 l 7.5,-12.499998 h -12.5 v 12.499998"
+         id="path639-9-2"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath637-2-1">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+         d="m 215.29999,94.700003 h 5 l 7.5,-12.499998 h -12.5 v 12.499998"
+         id="path639-9-8"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath637-2-9">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+         d="m 215.29999,94.700003 h 5 l 7.5,-12.499998 h -12.5 v 12.499998"
+         id="path639-9-20"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath637-2-37">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+         d="m 215.29999,94.700003 h 5 l 7.5,-12.499998 h -12.5 v 12.499998"
+         id="path639-9-5"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath637-2-2">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+         d="m 215.29999,94.700003 h 5 l 7.5,-12.499998 h -12.5 v 12.499998"
+         id="path639-9-28"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath637-2-36">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+         d="m 215.29999,94.700003 h 5 l 7.5,-12.499998 h -12.5 v 12.499998"
+         id="path639-9-1"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1004">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+         d="m 216.13506,70.300005 h 5 l 7.5,-12.500002 h -12.5 v 12.500002"
+         id="path1006"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1004-7">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+         d="m 216.13506,70.300005 h 5 l 7.5,-12.500002 h -12.5 v 12.500002"
+         id="path1006-8"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5-4-5">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+         d="M 217.5,69.999999 H 220 L 227.5,60 h -10 z"
+         id="path5-4-0"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1004-7-6">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+         d="m 216.13506,70.300005 h 5 l 7.5,-12.500002 h -12.5 v 12.500002"
+         id="path1006-8-1"
+         sodipodi:nodetypes="ccccc" />
     </clipPath>
   </defs>
   <g
@@ -374,56 +563,56 @@
          x="120"
          y="92.5">Major project funding</tspan></text>
     <rect
-       style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:0;paint-order:stroke fill markers"
+       style="fill:#d45500;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:0;paint-order:stroke fill markers"
        id="rect6"
        width="11.500003"
        height="6.5000033"
        x="20.5"
        y="58" />
     <rect
-       style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-0"
        width="11.500004"
        height="6.5000033"
        x="20.49999"
        y="85.5" />
     <rect
-       style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-06"
        width="11.500003"
        height="6.5000029"
        x="20.49999"
        y="95.5" />
     <rect
-       style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-4"
        width="11.500002"
        height="6.5000019"
        x="35.524414"
        y="85.5" />
     <rect
-       style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:0.999998;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0.999998;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-77"
        width="11.500003"
        height="6.4999971"
        x="60.499989"
        y="85.5" />
     <rect
-       style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-6"
        width="11.500004"
        height="6.5000024"
        x="80.499992"
        y="85.500008" />
     <rect
-       style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:0.999999;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-45"
        width="11.500004"
        height="6.5000019"
        x="80.499992"
        y="95.500008" />
     <rect
-       style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49"
        width="11.500006"
        height="6.5000029"
@@ -436,32 +625,24 @@
        height="6.5000029"
        x="220.5"
        y="48"
-       clip-path="url(#clipPath3)" />
+       clip-path="url(#clipPath3)"
+       transform="translate(36.249982,8.7500029)" />
     <rect
        style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect6-49-35-0"
-       width="11.500006"
-       height="6.5000029"
-       x="220.5"
-       y="48"
-       clip-path="url(#clipPath3-9)"
-       transform="translate(-115,12.499996)" />
-    <rect
-       style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-3"
        width="11.500006"
        height="6.5000029"
        x="123.00002"
        y="60.5" />
     <rect
-       style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-8"
        width="11.500006"
        height="6.5000029"
        x="140.5"
        y="60.5" />
     <rect
-       style="fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-6"
        width="11.500006"
        height="6.5000029"
@@ -489,11 +670,47 @@
        x="153"
        y="100.5" />
     <rect
-       style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="display:inline;fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-30-59-0"
+       width="11.500006"
+       height="6.5000029"
+       x="220.5"
+       y="75.5"
+       clip-path="url(#clipPath6)"
+       transform="translate(-8.8000036e-6,-7.4999973)" />
+    <rect
+       style="display:inline;fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-30-59-0-6-3"
+       width="11.500006"
+       height="6.5000029"
+       x="220.49998"
+       y="63"
+       clip-path="url(#clipPath1004)"
+       transform="translate(6.4587931e-6,-4.9999977)" />
+    <rect
+       style="display:inline;fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-30-59-0-1"
+       width="11.500006"
+       height="6.5000029"
+       x="220.5"
+       y="75.5"
+       clip-path="url(#clipPath6-4)"
+       transform="translate(-140,10.000008)" />
+    <rect
+       style="display:inline;fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-30-59-0-1-7"
+       width="11.500006"
+       height="6.5000029"
+       x="220.5"
+       y="75.5"
+       clip-path="url(#clipPath6-4-2)"
+       transform="translate(-140,20.000008)" />
+    <rect
+       style="display:inline;fill:#d45500;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-30-5"
        width="4.000001"
        height="3.9999957"
-       x="10.499997"
+       x="10.500002"
        y="145.5" />
     <rect
        style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:1, 1;stroke-dashoffset:0;paint-order:stroke fill markers"
@@ -542,133 +759,187 @@
          x="25"
          y="128.55832">(possible affiliates in research groups here)</tspan></text>
     <rect
-       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect6-49-35-6"
-       width="11.500006"
-       height="6.5000029"
-       x="220.5"
-       y="48"
-       clip-path="url(#clipPath3-6)"
-       transform="translate(-97.49998,12.5)" />
-    <rect
-       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect6-49-35-2"
-       width="11.500006"
-       height="6.5000029"
-       x="220.5"
-       y="48"
-       clip-path="url(#clipPath3-7)"
-       transform="translate(-80.000007,12.5)" />
-    <rect
-       style="fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect6-49-35-9"
-       width="11.500006"
-       height="6.5000029"
-       x="220.5"
-       y="48"
-       clip-path="url(#clipPath3-5)"
-       transform="translate(-62.500007,12.5)" />
-    <rect
-       style="fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect6-49-35-1"
-       width="11.500006"
-       height="6.5000029"
-       x="220.5"
-       y="48"
-       clip-path="url(#clipPath3-61)"
-       transform="translate(-140.00001,37.500009)" />
-    <rect
-       style="display:inline;fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect6-49-35-1-3"
-       width="11.500006"
-       height="6.5000029"
-       x="220.5"
-       y="48"
-       clip-path="url(#clipPath3-61-19)"
-       transform="translate(-184.97558,37.499999)" />
-    <rect
-       style="display:inline;fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect6-49-35-1-04"
-       width="11.500006"
-       height="6.5000029"
-       x="220.5"
-       y="48"
-       clip-path="url(#clipPath3-61-5)"
-       transform="translate(-160.00001,37.500001)" />
-    <rect
-       style="fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect6-49-35-1-0"
-       width="11.500006"
-       height="6.5000029"
-       x="220.5"
-       y="48"
-       clip-path="url(#clipPath3-61-7)"
-       transform="translate(-140.00001,47.500005)" />
-    <rect
-       style="fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect6-49-35-1-2"
-       width="11.500006"
-       height="6.5000029"
-       x="220.5"
-       y="48"
-       clip-path="url(#clipPath3-61-1)"
-       transform="translate(-200.00001,37.499999)" />
-    <rect
-       style="fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect6-49-35-1-6"
-       width="11.500006"
-       height="6.5000029"
-       x="220.5"
-       y="48"
-       clip-path="url(#clipPath3-61-15)"
-       transform="translate(-200.00001,47.499999)" />
-    <rect
-       style="display:inline;fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linejoin:round;paint-order:stroke fill markers"
+       style="display:inline;fill:#800000;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-30-5-2"
        width="4.000001"
        height="3.9999957"
-       x="60.5"
-       y="145.5" />
+       x="55.500004"
+       y="145.49998" />
     <rect
        style="display:inline;fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linejoin:round;paint-order:stroke fill markers"
        id="rect6-49-30-5-6"
        width="4.000001"
        height="3.9999957"
-       x="140.5"
-       y="145.5" />
+       x="105.50001"
+       y="145.49998" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#008000;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
-       x="17.295456"
+       x="17.29546"
        y="149.68176"
        id="text6-2-1"><tspan
          sodipodi:role="line"
          id="tspan6-4-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;stroke-width:0.01"
-         x="17.295456"
+         x="17.29546"
          y="149.68176">SCI funding</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#1a1a1a;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
-       x="67.206551"
-       y="149.68176"
+       x="62.206554"
+       y="149.68175"
        id="text13"><tspan
          sodipodi:role="line"
          id="tspan13"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.01"
-         x="67.206551"
-         y="149.68176">Other internal funding</tspan></text>
+         x="62.206554"
+         y="149.68175">Dept funding</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#1a1a1a;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
-       x="147.23196"
-       y="149.68176"
+       x="112.23196"
+       y="149.68175"
        id="text14"><tspan
          sodipodi:role="line"
          id="tspan14"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.01"
-         x="147.23196"
-         y="149.68176">3rd party funding</tspan></text>
+         x="112.23196"
+         y="149.68175">Other funding</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.999995;stroke-linejoin:round;stroke-dasharray:0.999995, 0.999995;stroke-dashoffset:0;paint-order:stroke fill markers"
+       id="rect6-49-30-5-6-3"
+       width="4.000001"
+       height="3.9999957"
+       x="158"
+       y="145.5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#1a1a1a;stroke:#000000;stroke-width:0.01;stroke-dasharray:none"
+       x="164.73196"
+       y="149.68176"
+       id="text14-5"><tspan
+         sodipodi:role="line"
+         id="tspan14-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.01"
+         x="164.73196"
+         y="149.68176">Fixed term</tspan></text>
+    <rect
+       style="display:inline;fill:#d45500;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-35-6-7"
+       width="11.500006"
+       height="6.5000029"
+       x="220.5"
+       y="48"
+       clip-path="url(#clipPath3-6-3)"
+       transform="translate(38.749982,31.250004)" />
+    <rect
+       style="display:inline;fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-3-5"
+       width="11.500006"
+       height="6.5000029"
+       x="217.99998"
+       y="85.5"
+       clip-path="url(#clipPath637)"
+       transform="translate(2.5000065)" />
+    <rect
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
+       id="rect6-49-3-5-1"
+       width="11.500006"
+       height="6.5000029"
+       x="217.99998"
+       y="85.5"
+       clip-path="url(#clipPath637-2)"
+       transform="translate(-59.999991,-24.999998)" />
+    <rect
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect6-49-3-5-1-0"
+       width="11.500006"
+       height="6.5000029"
+       x="217.99998"
+       y="85.5"
+       clip-path="url(#clipPath637-2-3)"
+       transform="translate(-112.49999,-24.999998)" />
+    <rect
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect6-49-3-5-1-6"
+       width="11.500006"
+       height="6.5000029"
+       x="217.99998"
+       y="85.5"
+       clip-path="url(#clipPath637-2-6)"
+       transform="translate(-94.999989,-24.999998)" />
+    <rect
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect6-49-3-5-1-7"
+       width="11.500006"
+       height="6.5000029"
+       x="217.99998"
+       y="85.5"
+       clip-path="url(#clipPath637-2-1)"
+       transform="translate(-77.49999,-24.999998)" />
+    <rect
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect6-49-3-5-1-2"
+       width="11.500006"
+       height="6.5000029"
+       x="217.99998"
+       y="85.5"
+       clip-path="url(#clipPath637-2-9)"
+       transform="translate(-197.49999)" />
+    <rect
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect6-49-3-5-1-9"
+       width="11.500006"
+       height="6.5000029"
+       x="217.99998"
+       y="85.5"
+       clip-path="url(#clipPath637-2-37)"
+       transform="translate(-182.49999)" />
+    <rect
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect6-49-3-5-1-97"
+       width="11.500006"
+       height="6.5000029"
+       x="217.99998"
+       y="85.5"
+       clip-path="url(#clipPath637-2-2)"
+       transform="translate(-157.49999)" />
+    <rect
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect6-49-3-5-1-29"
+       width="11.500006"
+       height="6.5000029"
+       x="217.99998"
+       y="85.5"
+       clip-path="url(#clipPath637-2-36)"
+       transform="translate(-197.49999,10.000004)" />
+    <rect
+       style="display:inline;fill:#008080;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect6-49-30-59"
+       width="11.500006"
+       height="6.5000029"
+       x="220.5"
+       y="63"
+       clip-path="url(#clipPath5)"
+       transform="translate(46.249989,3.7500033)" />
+    <rect
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
+       id="rect6-49-30-59-0-6-3-4"
+       width="11.500006"
+       height="6.5000029"
+       x="220.49998"
+       y="63"
+       clip-path="url(#clipPath1004-7)"
+       transform="translate(-139.99999,22.500003)" />
+    <rect
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="rect6-49-30-59-0-6-3-4-0"
+       width="11.500006"
+       height="6.5000029"
+       x="220.49998"
+       y="63"
+       clip-path="url(#clipPath1004-7-6)"
+       transform="translate(-139.99999,32.500004)" />
   </g>
   <g
      inkscape:groupmode="layer"
