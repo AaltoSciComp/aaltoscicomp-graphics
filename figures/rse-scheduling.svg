@@ -27,15 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="cm"
      showgrid="true"
-     inkscape:zoom="0.78992994"
-     inkscape:cx="212.04412"
-     inkscape:cy="343.0684"
-     inkscape:window-width="1429"
-     inkscape:window-height="898"
-     inkscape:window-x="1378"
-     inkscape:window-y="898"
+     inkscape:zoom="1.5798599"
+     inkscape:cx="474.72564"
+     inkscape:cy="300.97606"
+     inkscape:window-width="1730"
+     inkscape:window-height="985"
+     inkscape:window-x="1338"
+     inkscape:window-y="859"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer2"
      inkscape:export-bgcolor="#ffffffff">
     <inkscape:grid
        id="grid1"
@@ -263,11 +263,25 @@
        y="59.999992" />
     <rect
        style="fill:#2a2aff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect4-9-9"
+       width="17.499998"
+       height="4.9999995"
+       x="142.5"
+       y="45" />
+    <rect
+       style="fill:#2a2aff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-9-6"
-       width="7.5"
-       height="10"
+       width="9.9999981"
+       height="7.500001"
        x="87.5"
        y="40" />
+    <rect
+       style="fill:#2a2aff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect4-9-6-1"
+       width="4.999999"
+       height="5.000001"
+       x="90"
+       y="45" />
     <rect
        style="fill:#5555ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-5"
@@ -304,12 +318,33 @@
        x="90"
        y="29.999996" />
     <rect
+       style="fill:#2a2aff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect4-7-2"
+       width="15"
+       height="4.9999995"
+       x="62.5"
+       y="30" />
+    <rect
        style="fill:#000055;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-72"
        width="9.9999943"
-       height="10"
+       height="4.9999971"
        x="60.000004"
-       y="29.999998" />
+       y="35" />
+    <rect
+       style="fill:#000055;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect4-72-3"
+       width="9.9999971"
+       height="4.9999967"
+       x="130"
+       y="30.000004" />
+    <rect
+       style="fill:#000055;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect4-72-3-5"
+       width="9.9999971"
+       height="4.9999967"
+       x="137.5"
+       y="40" />
     <rect
        style="fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6"
@@ -327,21 +362,35 @@
     <rect
        style="fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-6-76"
-       width="7.4999962"
-       height="9.9999914"
+       width="9.9999933"
+       height="7.4999962"
        x="100"
+       y="40.000004" />
+    <rect
+       style="fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect4-6-6-76-3"
+       width="9.9999905"
+       height="4.9999971"
+       x="75.000008"
+       y="45.000004" />
+    <rect
+       style="fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect4-6-6-76-3-4"
+       width="29.999996"
+       height="2.4999969"
+       x="22.500004"
        y="40.000004" />
     <rect
        style="fill:#8080ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-6-1"
        width="10.000002"
-       height="9.999999"
-       x="72.5"
-       y="40.000004" />
+       height="5.0000019"
+       x="70"
+       y="40" />
     <rect
        style="fill:#8080ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-6-1-1"
-       width="7.5000029"
+       width="9.9999981"
        height="4.9999995"
        x="97.5"
        y="55" />
@@ -370,9 +419,9 @@
        style="fill:#000080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-7"
        width="37.500004"
-       height="10.000002"
+       height="5.0000014"
        x="85"
-       y="30" />
+       y="35" />
     <rect
        style="fill:#000080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-47"
@@ -406,15 +455,15 @@
        id="rect4-6-9-9"
        width="15.000001"
        height="4.9999995"
-       x="30.000002"
-       y="54.999992" />
+       x="27.499998"
+       y="50" />
     <rect
        style="fill:#5555ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-91"
-       width="35.000011"
-       height="10"
+       width="22.499989"
+       height="7.4999995"
        x="115.00001"
-       y="40" />
+       y="42.5" />
     <rect
        style="fill:#d45500;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-1-9"
@@ -426,16 +475,16 @@
        style="fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4"
        width="20.000002"
-       height="10"
+       height="7.5000005"
        x="30.000002"
-       y="30" />
+       y="29.999998" />
     <rect
        style="fill:#000080;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-83"
        width="37.500008"
-       height="10.000005"
+       height="7.4999952"
        x="122.5"
-       y="59.999992" />
+       y="62.5" />
     <rect
        style="fill:#d45500;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-13"
@@ -632,6 +681,13 @@
        y="114.99999" />
     <rect
        style="display:inline;fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect4-6-43-2"
+       width="9.9999962"
+       height="4.9999995"
+       x="52.500004"
+       y="110" />
+    <rect
+       style="display:inline;fill:#0000aa;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-6-6-7"
        width="12.5"
        height="9.9999962"
@@ -722,10 +778,17 @@
     <rect
        style="display:inline;fill:#5555ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-91-2"
-       width="60.000011"
+       width="62.500019"
        height="7.4999981"
-       x="100.00001"
+       x="97.5"
        y="102.5" />
+    <rect
+       style="display:inline;fill:#5555ff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect4-91-2-6"
+       width="45.000004"
+       height="2.5000017"
+       x="104.99999"
+       y="100" />
     <rect
        style="display:inline;fill:#d45500;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect4-1-9-1"
@@ -947,27 +1010,27 @@
          id="tspan3-1"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="165"
-         y="35">More SCI funding</tspan><tspan
+         y="35">Focus on small projects</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="165"
          y="41.173611"
-         id="tspan8">Immediate help for anyone</tspan><tspan
+         id="tspan2">Harder to pack paid projects</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="165"
          y="47.347225"
-         id="tspan9">Egalitarian benefit</tspan><tspan
+         id="tspan8">Immediate help for anyone</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="165"
          y="53.520836"
-         id="tspan14">&quot;Rising tide lifts all ships&quot;</tspan><tspan
+         id="tspan9">Egalitarian benefit</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="165"
          y="59.69445"
-         id="tspan16">Current Aalto system</tspan></text>
+         id="tspan16">&quot;Rising tide lifts all ships&quot;</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583"
@@ -978,12 +1041,12 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="165"
          y="95"
-         id="tspan9-4">More 3rd party project funding</tspan><tspan
+         id="tspan9-4">Focus on big projects</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="165"
          y="101.17361"
-         id="tspan11">Focus on those with funding</tspan><tspan
+         id="tspan14">Focus on funding</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="165"
@@ -993,7 +1056,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="165"
          y="113.52084"
-         id="tspan17">System in other countries</tspan><tspan
+         id="tspan17" /><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="165"
