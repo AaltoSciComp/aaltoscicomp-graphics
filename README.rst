@@ -39,6 +39,21 @@ The hexagonal stickers should be printed 4.399 cm wide.  The height
 (of full hexagon ones) would be 5.080 cm.  The magenta line is the cut
 line.
 
+Single:
+
+> There is a magenta cut line.  The sticker should be printed exactly
+to the hexagonal sticker standard.  The final size should be exactly
+4.399 cm wide by 5.080 cm tall.  (exactly 1.7320 in wide by 2 inches
+tall).  Please send me proofs before printing.
+
+Double (5 o'clock):
+
+> There is a magenta cut line.  The sticker should be printed exactly
+6.599 cm wide by 8.89 cm tall (exactly 2.598 inches by 3.5 inches).
+It should be two hexagons of the "hexagonal sticker standard".  Please
+send me proofs before printing.
+
+
 
 
 Patches
