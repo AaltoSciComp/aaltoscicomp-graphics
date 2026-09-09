@@ -20,18 +20,18 @@
      borderopacity="1.0"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="false"
+     inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
-     inkscape:zoom="4"
-     inkscape:cx="124.25"
-     inkscape:cy="152.25"
+     inkscape:zoom="1.243342"
+     inkscape:cx="41.822766"
+     inkscape:cy="196.24529"
      inkscape:window-width="1515"
      inkscape:window-height="1080"
-     inkscape:window-x="1498"
-     inkscape:window-y="843"
+     inkscape:window-x="405"
+     inkscape:window-y="83"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer5"
      showgrid="true">
     <inkscape:grid
        type="axonomgrid"
@@ -75,16 +75,29 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="cut line" />
-  <g
-     inkscape:label="working area demo"
-     inkscape:groupmode="layer"
-     id="layer1">
+     inkscape:label="cut line"
+     style="display:none">
     <path
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 2.5399999,15.239999 v 25.4 l 21.9970451,12.7 21.997046,-12.7 v -25.4 L 24.537045,2.5399991 Z"
        id="path2"
        sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="background">
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 2.5399999,15.239999 v 25.4 l 21.9970451,12.7 21.997046,-12.7 v -25.4 L 24.537045,2.5399991 Z"
+       id="path3"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     inkscape:label="working area demo"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
     <path
        style="fill:#afc6e9;fill-rule:evenodd;stroke:none;stroke-width:0.508;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
        d="m 2.5400001,15.24 1e-7,25.399999 L 24.537045,53.34 46.534091,40.639999 v -25.4 L 24.537045,2.5399991 Z"
